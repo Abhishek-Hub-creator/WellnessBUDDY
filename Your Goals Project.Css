@@ -1,0 +1,38 @@
+h1 {
+    color: cornflowerblue;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.im {
+    height: 300px;
+    width: 400px;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    cursor: pointer;
+}
+
+.p {
+    margin-top: 120px;
+}
+
+.Points {
+    background-color: blanchedalmond;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.Points b {
+    font-size: 18px;
+}
+
+.Points p {
+    padding-left: 25px;
+    cursor: pointer;
+}

@@ -1,0 +1,99 @@
+.Dr {
+    height: 100px;
+    width: 600px;
+}
+
+#Dr1 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr2 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr2 {
+    margin-top: 250px;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.Dr h3 {
+    color: cornflowerblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#Dr3 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr3 {
+    margin-top: 300px;
+}
+
+#Dr4 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr5 {
+    margin-top: 280px;
+}
+
+#Dr5 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr4 {
+    margin-top: 440px;
+}
+
+#Dr6 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr6 {
+    margin-top: 380px;
+}
+
+#Dr7 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr7 {
+    margin-top: 270px;
+}
+
+#Dr8 img {
+    height: 100px;
+    width: 100px;
+}
+
+#Dr8 {
+    margin-top: 230px;
+}
+
+.ul {
+    color: cornflowerblue;
+}
+
+.p {
+    color: black;
+    cursor: pointer;
+    /* background-color: rgb(214, 207, 252);
+    padding: 10px; */
+}
+
+img {
+    cursor: pointer;
+}
